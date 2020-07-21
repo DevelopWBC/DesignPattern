@@ -6,13 +6,13 @@
 ## 基本原则
 ### 设计模式原则，其实是程序员在开发时需要遵守的原则。也是各种设计模式的基础
 ### 七大原则
-1. 职能单一原则 ---> Single Responsibility Principle
-2. 接口隔离原则 ---> Interface Segregation Principle
-3. 依赖倒转原则 ---> Dependence Inversion Principle
-4. 里氏替换原则 ---> Liskov Substitution Principle
-5. 开闭原则 ---> Open Closed Principle
-6. 迪米特法则 ---> Demeter Principle
-7. 合成复用原则 ---> Composite Reuse Principle
+* 职能单一原则 ---> Single Responsibility Principle
+* 接口隔离原则 ---> Interface Segregation Principle
+* 依赖倒转原则 ---> Dependence Inversion Principle
+* 里氏替换原则 ---> Liskov Substitution Principle
+* 开闭原则 ---> Open Closed Principle
+* 迪米特法则 ---> Demeter Principle
+* 合成复用原则 ---> Composite Reuse Principle
 
 ### 职能单一原则
 
@@ -30,3 +30,4 @@
   * 只有在类中方法足够少时可以在方法级别上保持职能单一
 
 #### 示例
+![InterfaceSegregationPrinciple UML图](./image/InterfaceSegregation.png)
